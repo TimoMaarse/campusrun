@@ -1,24 +1,15 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <h3 class="footer-heading">{{ site.title }}</h3>
-
     <div class="site-navigation">
-      <p><strong>Site Map</strong></p>
-      <ul class="pages">
-        {% include nav_links.html %}
-      </ul>
+      <h3 style="margin-bottom: 0;" class="footer-heading">{{ site.title }}</h3>
     </div>
 
-    <div class="site-contact">
-      <p><strong>Contact</strong></p>
+    <div style="margin-top: 5px;" class="site-contact">
+      <a href="mailto:{{ site.email }}">
+        <span class="fa fa-envelope-o"></span>
+        <span class="username">{{ site.email }}</span>
+      </a>
       <ul class="social-media-list">
-        <li>
-          <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope-o"></i>
-            <span class="username">{{ site.email }}</span>
-          </a>
-        </li>
-
         {% for social in site.social %} {% if social.url != "" %}
         <li>
           <a href="{{ social.url }}" title="{{ social.desc }}">
