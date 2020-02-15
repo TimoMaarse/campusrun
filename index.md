@@ -71,6 +71,6 @@ order: 1
     }
 </style>
 
-# Campusrun
+# Campusrun Nijmegen
 
 T.b.a.
