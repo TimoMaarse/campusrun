@@ -8,7 +8,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Campusrun
+title: Campusrun Nijmegen
 subtitle: "Radboud University campus' 5km race"
 email: info@campusrunnijmegen.nl
 name: Campusrun committee
