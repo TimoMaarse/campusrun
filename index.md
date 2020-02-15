@@ -21,7 +21,6 @@ order: 1
         var count = new Countdown(target_date, new Date());
 
         count.countdown(function(time) {
-            console.log(time);
             if (time.days == 0) {
                 $("#countdownTextA").html("hours");
                 $("#countdownTextB").html("minutes");
