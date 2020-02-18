@@ -6,4 +6,4 @@ main_nav: true
 order: 2
 ---
 
-T.b.a.
+Registrations will open soon.

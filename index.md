@@ -72,4 +72,11 @@ order: 1
 
 # Campusrun Nijmegen
 
-T.b.a.
+The Campusrun Nijmegen is a fun and accessible run at the Radboud University's campus and the neighbouring Park Brakkenstein. In 2020, the Campusrun takes place for the fifth time, this time on **15 April**. The starting shot will fire at **19:00**.
+
+The race is open to everyone, but primarily focused on students, alumni and staff of the Radboud University and the HAN. Registrations will open soon.
+
+<center><a href="/register"><button disabled style="background-color: #be311a; border: none; color: white; padding: 16px 32px; text-align: center;
+text-decoration: none; display: inline-block; font-size: 16px; margin-bottom: 16px;">Register now</button></a></center>
+
+Apart from the individual ranking, students can also represent their study association in a team of at least four. More details are available [here](/regulations/).
