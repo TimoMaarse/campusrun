@@ -80,3 +80,5 @@ The race is open to everyone, but primarily focused on students, alumni and staf
 text-decoration: none; display: inline-block; font-size: 16px; margin-bottom: 16px;">Register now</button></a></center>
 
 Apart from the individual ranking, students can also represent their study association in a team of at least four. More details are available [here](/regulations/).
+
+The Campusrun is organized by sports umbrella association [NSSR](http://www.nssr.nl/language/en/home-2/), student athletics association ['t Haasje](https://haasjeatletiek.nl/?lang=en) and the [Batavierenrace](https://www.batavierenrace.nl/english).
