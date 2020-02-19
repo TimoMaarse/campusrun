@@ -13,12 +13,13 @@ layout: default
     endif
     %}
   >
-    <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <div class="scrim {% if site.cover %}has-cover{% endif %}" style="position: relative;">
       <header class="site-header">
         <img style="width: 80%; max-width: 720px;" src="{{
           "/assets/name.svg" | prepend: site.baseurl
         }}" />
       </header>
+      <div style="position: absolute; bottom: 5px; right: 5px; font-size: 0.7em;">Photo: <a style="color: white;" href="https://ans-online.nl/cultuur/in-beeld/in-beeld-campusrun-2019/">ans</a></div>
     </div>
   </div>
 
