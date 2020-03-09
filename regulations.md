@@ -27,7 +27,7 @@ There will be three medals for every individual ranking, a challenge cup ("wisse
 
 # Registration
 
-Registration is possible for a reduced fee until a few days before the race (see [registration](/registration/)) and on the day itself (also see [registration](/registration/) for more details). Restitution after payment is not possible. You cannot participate without registration and corresponding payment.
+Registration is possible for a reduced fee until a few days before the race (see [registration](/registration/)) and on the day itself (also see [registration](/registration/) for more details). Restitution after payment is not possible.
 
 # Starting numbers
 
@@ -40,6 +40,10 @@ The contest features automatic time registration via the IPICO Sports system via
 # Results
 
 The organization will publish all results and rankings after the contest. You can object to the results at any time, but the organization does not have any obligation to change the results and/or rankings in any way.
+
+# Media
+
+If you do not want your pictures of you appearing online, please reach us at [info@campusrunnijmegen.nl](mailto:info@campusrunnijmegen.nl).
 
 # Liability
 
