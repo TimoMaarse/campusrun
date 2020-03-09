@@ -27,7 +27,7 @@ There will be three medals for every individual ranking, a challenge cup ("wisse
 
 # Registration
 
-Registration is possible for a reduced fee until a few days before the race (see [registration](/registration/)) and on the day itself (also see [registration](/registration/) for more details). Restitution after payment is not possible.
+Registration is possible for a fee of 4 euro until a few days before the race (see [registration](/registration/)) and on the day itself for a fee of 5 euro (see [registration](/registration/) for more details). Restitution after payment is not possible.
 
 # Starting numbers
 
