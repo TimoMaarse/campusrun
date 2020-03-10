@@ -8,12 +8,14 @@ order: 4
 
 # Rankings
 
-* Individual (men)
-* Individual (women)
-* Individual sprinter (men)
-* Individual sprinter (women)
-* Faculty
-* Study association
+**Note: the sprinter rankings are preliminary and may still be removed.**
+
+- Individual (men)
+- Individual (women)
+- _Individual sprinter (men)_
+- _Individual sprinter (women)_
+- Faculty
+- Study association
 
 The sprinter rankings are based on the time in the last 100 m of the course. This point will be clearly marked.
 
