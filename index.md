@@ -6,7 +6,7 @@ main_nav: true
 order: 1
 ---
 
-<div class="countdown">
+<!-- <div class="countdown">
     <div class="timer"><b class="countdownvalue" id="countdownA"></b><span class="word" id="countdownTextA"></span></div>
     <div class="timer"><b class="countdownvalue" id="countdownB"></b><span class="word" id="countdownTextB"></span></div>
     <div class="timer"><b class="countdownvalue" id="countdownC"></b><span class="word" id="countdownTextC"></span></div>
@@ -68,16 +68,18 @@ order: 1
     .word {
         display: block;
     }
-</style>
+</style> -->
 
 # Campusrun Nijmegen
 
-The Campusrun Nijmegen is a fun and accessible run at the Radboud University's campus and the neighbouring Park Brakkenstein. In 2020, the Campusrun takes place for the fifth time, this time on **15 April**. The starting shot will fire at **19:00**.
+**The 2020 edition of the Campusrun Nijmegen has been cancelled due to the COVID-19 pandemic.**
+
+The Campusrun Nijmegen is a fun and accessible run at the Radboud University's campus and the neighbouring Park Brakkenstein. In 2020, the Campusrun would have taken place for the fifth time, on **15 April**. The starting shot would have fired at **19:00**.
 
 The race is open to everyone, but primarily focused on students, alumni and staff of the Radboud University and the HAN.
 
-<center><a href="https://inschrijven.nl/form/2020041518435-en"><button style="background-color: #be311a; border: none; color: white; padding: 16px 32px; text-align: center;
-text-decoration: none; display: inline-block; font-size: 16px; margin-bottom: 16px;">Register now</button></a></center>
+<center><a href="https://inschrijven.nl/form/2020041518435-en"><button disabled style="background-color: #be311a; border: none; color: white; padding: 16px 32px; text-align: center;
+text-decoration: none; display: inline-block; font-size: 16px; margin-bottom: 16px;">Registration cancelled</button></a></center>
 
 Apart from the individual ranking, students can also represent their study association in a team of at least four. More details are available [here](/regulations/).
 

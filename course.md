@@ -6,6 +6,6 @@ main_nav: true
 order: 3
 ---
 
-The course is designed to be 5 km in length. The _preliminary_ course is as follows:
+The preliminary course for the 2020 edition was as follows:
 
 ![Preliminary course](/assets/img/course.png)
